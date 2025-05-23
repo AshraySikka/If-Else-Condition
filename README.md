@@ -8,11 +8,11 @@ The program takes a number as input from the user and checks whether it is **pos
 
 ## 📁 Files
 
-- `if_else_example.py`: Python script showcasing the `if-else` logic.
+- `if-else.py`: Python script showcasing the `if-else` logic.
 
 ## ▶️ How to Run
 
 Make sure Python is installed on your system. Then execute:
 
 ```bash
-python if_else_example.py
+python if-else.py
